@@ -1,0 +1,10 @@
+.map {
+    border: 15px solid #dfefff;
+    text-align: center;
+    overflow: hidden;
+}
+
+.map img {
+    display: block;
+    width: 100%;
+}
