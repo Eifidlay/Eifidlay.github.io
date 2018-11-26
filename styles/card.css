@@ -1,0 +1,21 @@
+.card-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -20px;
+    font-size: 25px;
+}
+
+.card {
+    padding: 20px;
+    margin: 20px;
+    flex: 1;
+    text-align: center;
+}
+
+.card-full {
+    flex: 100%;
+}
+
+.card h3 {
+    text-transform: uppercase;
+}
